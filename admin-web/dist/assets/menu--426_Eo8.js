@@ -1,0 +1,1 @@
+import{B as t}from"./index-dsecEtvP.js";function u(){return t.get("/system/menu/tree")}function r(e){return t.post("/system/menu",e)}function s(e){return t.put("/system/menu",e)}function m(e){return t.delete(`/system/menu/${e}`)}export{r as c,m as d,u as g,s as u};
